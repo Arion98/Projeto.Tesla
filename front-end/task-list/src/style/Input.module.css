@@ -1,0 +1,11 @@
+.input{
+    padding-bottom: 15px;
+    border-bottom:1px solid gray ;
+}
+
+select,option{
+    padding: 8px;
+    border-radius: 8px;
+    border: none;
+    margin-right: 30%;
+}
